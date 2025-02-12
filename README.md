@@ -1,13 +1,13 @@
-## 👋 Hi I'm Will ! 
+## 👋 Hi I'm Will ! 👋
 
-`About me`
+### `About me`
 
 💻 Software Engineering student/developer looking to share both my practical and personal projects. <br/>
 🧑‍🎓 Studying Software Engineering at Western Governors University. <br/>
 👻 Currently learning about llm's like GPT/BERT.<br/>
 
 ---
-### 🧰 Languages and Tools
+### `🧰 Languages and Tools`
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -23,8 +23,3 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
-#
-
-<!--
-**hellok0/hellok0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
