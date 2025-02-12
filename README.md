@@ -1,4 +1,6 @@
-## Hi there 👋 ✨📌📍📈✨ Welcome to my Github!✨📈📍📌✨
+✨😎 Welcome to my Github!😎✨
+**'Software Engineering (Student/Developer)'**
+I'm currently a university student and indie developer building my version of the digital realm one step at a time. The projects you'll find here are all made from the ground up. I've worked on both practical and personal projects, some designed to solve real-world challenges and others built for fun to experiment with new technologies.
 
 <!--
 **hellok0/hellok0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
